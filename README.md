@@ -1,2 +1,6 @@
 # financial_analysis
-financial analysis on a dataset
+
+Financial analysis on a dataset using
+
++ pandas
++ matplotlib
